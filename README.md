@@ -1,12 +1,2 @@
-# Header1
-- some text
-## Header 2
-### Header 3
+![workflow](https://github.com/raj854/sem/actions/workflows/main.yml/badge.svg)
 
-```
-print(hello)
-lab2 setup 
-adding some text to redme.md file
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
-
-```
