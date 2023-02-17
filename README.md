@@ -7,4 +7,6 @@
 print(hello)
 lab2 setup 
 adding some text to redme.md file
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+
 ```
