@@ -5,4 +5,6 @@
 
 ```
 print(hello)
+lab2 setup 
+adding some text to redme.md file
 ```
