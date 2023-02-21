@@ -7,6 +7,10 @@
     <groupId>com.napier.sem</groupId>
     <artifactId>seMethods</artifactId>
     <version>0.1.0.1</version>
+    <properties>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
+    </properties>
 
     <dependencies>
         <dependency>
@@ -15,5 +19,7 @@
             <version>3.6.4</version>
         </dependency>
     </dependencies>
+
+
 
 </project>
